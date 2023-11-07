@@ -1,0 +1,4 @@
+NAME              READY   UP-TO-DATE   AVAILABLE   AGE
+deploy-nginx      1/1     1            1           90m
+deploy-ubuntu     0/1     1            0           90m
+minikube-sample   1/1     1            1           99m
